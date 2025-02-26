@@ -9,7 +9,7 @@ Based on the API documentation: https://svgl.app/api.
 ### Using setup.py
 
 ```bash
-python setup.py install
+python -m pip install svgl
 ```
 
 ## Usage
